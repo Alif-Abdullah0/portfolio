@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("Ya this is za blogs app, what do you need?")
+    return HttpResponse("You've hit my homepage? What can I do for ya?")
